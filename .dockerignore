@@ -1,0 +1,7 @@
+TODO
+*.zip
+node_modules
+build
+.tscache
+tscommand.tmp.txt
+.git*
